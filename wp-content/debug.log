@@ -1,0 +1,28 @@
+[06-Dec-2018 10:07:03 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/www/wordpress/wp-content/themes/mysite/amp/single.php:1
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/mysite/amp/single.php on line 1
+[06-Dec-2018 10:08:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get() in /var/www/wordpress/wp-content/themes/mysite/amp/single.php:1
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/mysite/amp/single.php on line 1
+[06-Dec-2018 10:12:43 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/www/wordpress/wp-content/themes/mysite/amp/single.php:1
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/mysite/amp/single.php on line 1
+[06-Dec-2018 10:15:23 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/www/wordpress/wp-content/themes/mysite/amp/single.php:1
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/mysite/amp/single.php on line 1
